@@ -20,7 +20,7 @@
 
 
 
-<project name="bitbake.git" path="layers/bitbake" remote="oe" revision="2.0"/>
+<project name="bitbake.git" path="layers/bitbake" remote="oe" revision="2.8"/>
 
 
 <project name="meta-openembedded.git" path="layers/meta-openembedded" remote="oe" revision="scarthgap"/>
