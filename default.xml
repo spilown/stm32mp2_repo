@@ -16,26 +16,26 @@
 
 
 <!-- openembedded -->
-<project name="openembedded-core.git" path="sources/openembedded-core" remote="oe" revision="scarthgap"/>
+<project name="openembedded-core.git" path="layers/openembedded-core" remote="oe" revision="scarthgap"/>
 
 
 
-<project name="bitbake.git" path="sources/bitbake" remote="oe" revision="2.0"/>
+<project name="bitbake.git" path="layers/bitbake" remote="oe" revision="2.0"/>
 
 
-<project name="meta-openembedded.git" path="sources/meta-openembedded" remote="oe" revision="scarthgap"/>
+<project name="meta-openembedded.git" path="layers/meta-openembedded" remote="oe" revision="scarthgap"/>
 
 <!-- qt -->
-<project name="meta-qt6.git" path="sources/meta-qt6" remote="qt" revision="6.6.3"/>
+<project name="meta-qt6.git" path="layers/meta-qt6" remote="qt" revision="6.6.3"/>
 
 <!-- st -->
-<project name="meta-st-stm32mp.git" path="sources/meta-st-stm32mp" remote="st" revision="scarthgap"/>
+<project name="meta-st-stm32mp.git" path="layers/meta-st-stm32mp" remote="st" revision="scarthgap"/>
 
-<project name="meta-st-openstlinux.git" path="sources/meta-st-openstlinux" remote="st" revision="scarthgap"/>
+<project name="meta-st-openstlinux.git" path="layers/meta-st-openstlinux" remote="st" revision="scarthgap"/>
 
-<project name="meta-st-stm32mp-addons.git" path="sources/meta-st-stm32mp-addons" remote="st" revision="scarthgap"/>
+<project name="meta-st-stm32mp-addons.git" path="layers/meta-st-stm32mp-addons" remote="st" revision="scarthgap"/>
 
-<project name="meta-st-x-linux-qt.git" path="sources/meta-st-x-linux-qt" remote="st" revision="v2.1.0"/>
+<project name="meta-st-x-linux-qt.git" path="layers/meta-st-x-linux-qt" remote="st" revision="v2.1.0"/>
 
 
   
