@@ -29,13 +29,13 @@
 <project name="meta-qt6.git" path="layers/meta-qt6" remote="qt" revision="6.6.3"/>
 
 <!-- st -->
-<project name="meta-st-stm32mp.git" path="layers/meta-st-stm32mp" remote="st" revision="scarthgap"/>
+<project name="meta-st-stm32mp.git" path="layers/meta-st/meta-st-stm32mp" remote="st" revision="scarthgap"/>
 
-<project name="meta-st-openstlinux.git" path="layers/meta-st-openstlinux" remote="st" revision="scarthgap"/>
+<project name="meta-st-openstlinux.git" path="layers/meta-st/meta-st-openstlinux" remote="st" revision="scarthgap"/>
 
-<project name="meta-st-stm32mp-addons.git" path="layers/meta-st-stm32mp-addons" remote="st" revision="scarthgap"/>
+<project name="meta-st-stm32mp-addons.git" path="layers/meta-st/meta-st-stm32mp-addons" remote="st" revision="scarthgap"/>
 
-<project name="meta-st-x-linux-qt.git" path="layers/meta-st-x-linux-qt" remote="st" revision="v2.1.0"/>
+<project name="meta-st-x-linux-qt.git" path="layers/meta-st/meta-st-x-linux-qt" remote="st" revision="v2.1.0"/>
 
 
   
