@@ -1,0 +1,42 @@
+<manifest>
+
+  <default revision="scarthgap"
+           sync-j="8" />
+
+  <remote name="st"
+          fetch="https://github.com/STMicroelectronics"
+          revision="scarthgap" />
+
+  <remote name="yocto" fetch="https://git.yoctoproject.org"/>
+
+  <remote name="oe"    fetch="https://git.openembedded.org"/>
+  
+  <remote name="qt"    fetch="https://code.qt.io/yocto"/>
+
+
+
+<!-- openembedded -->
+<project name="openembedded-core.git" path="sources/openembedded-core" remote="oe" revision="scarthgap"/>
+
+
+
+<project name="bitbake.git" path="sources/bitbake" remote="oe" revision="2.0"/>
+
+
+<project name="meta-openembedded.git" path="sources/meta-openembedded" remote="oe" revision="scarthgap"/>
+
+<!-- qt -->
+<project name="meta-qt6.git" path="sources/meta-qt6" remote="qt" revision="6.6.3"/>
+
+<!-- st -->
+<project name="meta-st-stm32mp.git" path="sources/meta-st-stm32mp" remote="st" revision="scarthgap"/>
+
+<project name="meta-st-openstlinux.git" path="sources/meta-st-openstlinux" remote="st" revision="scarthgap"/>
+
+<project name="meta-st-stm32mp-addons.git" path="sources/meta-st-stm32mp-addons" remote="st" revision="scarthgap"/>
+
+<project name="meta-st-x-linux-qt.git" path="sources/meta-st-x-linux-qt" remote="st" revision="v2.1.0"/>
+
+
+  
+</manifest>
