@@ -9,7 +9,7 @@
 
   <remote name="yocto" fetch="https://git.yoctoproject.org"/>
 
-  <remote name="oe"    fetch="https://git.openembedded.org"/>
+  <remote name="oe"    fetch="https://github.com/openembedded"/>
   
   <remote name="qt"    fetch="https://code.qt.io/yocto"/>
 
