@@ -16,7 +16,7 @@
 
 
 <!-- openembedded -->
-<project name="openembedded-core.git" path="layers/openembedded-core" remote="oe" revision="scarthgap"/>
+<project name="openembedded-core.git" path="layers/openembedded-core" remote="oe" revision="236ac1b43308df722a78d3aa20aef065dfae5b2b"/>
 
 
 
