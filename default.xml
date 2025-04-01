@@ -33,7 +33,7 @@
 
 <project name="meta-st-scripts.git" path="layers/meta-st/scripts" remote="st" revision="scarthgap"/>
 
-<project name="meta-st-openstlinux.git" path="layers/meta-st/meta-st-openstlinux" remote="st" revision="scarthgap"/>
+<project name="meta-st-openstlinux.git" path="layers/meta-st/meta-st-openstlinux" remote="st" revision="a25d4806880cdc73471e3c1824a87901b5a4e44f"/>
 
 <project name="meta-st-stm32mp-addons.git" path="layers/meta-st/meta-st-stm32mp-addons" remote="st" revision="scarthgap"/>
 
