@@ -23,7 +23,7 @@
 <project name="bitbake.git" path="layers/bitbake" remote="oe" revision="2.8"/>
 
 
-<project name="meta-openembedded.git" path="layers/meta-openembedded" remote="oe" revision="scarthgap"/>
+<project name="meta-openembedded.git" path="layers/meta-openembedded" remote="oe" revision="1235dd4ed4a57e67683c045ad76b6a0f9e896b45"/>
 
 <!-- qt -->
 <project name="meta-qt6.git" path="layers/meta-qt6" remote="qt" revision="6.6.3"/>
